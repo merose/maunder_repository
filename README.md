@@ -1,6 +1,11 @@
 # maunder
 ROS2 workspace for the Maunder tablebot robot.
 
+## Prerequisites
+
+- ROS2 (Humble or later)
+- wstool
+
 ## Workspace setup
 
     cd src
