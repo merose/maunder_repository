@@ -1,3 +1,12 @@
 - git:
+    local-name: maunder
+    uri: git@github.com:merose/maunder.git
+- git:
+    local-name: ros2_diff_drive
+    uri: git@github.com:merose/ros2_diff_drive.git
+- git:
+    local-name: blue2_ros_bridge
+    uri: git@github.com:merose/blue_ros2_bridge.git
+- git:
     local-name: py_trees
     uri: git@github.com:splintered-reality/py_trees.git
