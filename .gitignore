@@ -3,6 +3,8 @@ src/[A-Za-z0-9]*
 devel/
 logs/
 build/
+install/
+log/
 bin/
 lib/
 msg_gen/
