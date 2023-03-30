@@ -13,3 +13,12 @@
 - git:
     local-name: py_trees
     uri: git@github.com:splintered-reality/py_trees.git
+- git:
+    local-name: py_trees_ros
+    uri: git@github.com:splintered-reality/py_trees_ros.git
+- git:
+    local-name: py_trees_ros_interfaces
+    uri: git@github.com:splintered-reality/py_trees_ros_interfaces.git
+- git:
+    local-name: py_trees_ros_viewer
+    uri: git@github.com:splintered-reality/py_trees_ros_viewer.git
