@@ -3,6 +3,10 @@
     uri: git@github.com:merose/maunder.git
     version: develop
 - git:
+    local-name: maunder-interfaces
+    uri: git@github.com:merose/maunder_interfaces.git
+    version: develop
+- git:
     local-name: ros2_diff_drive
     uri: git@github.com:merose/ros2_diff_drive.git
     version: develop
