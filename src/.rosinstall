@@ -3,7 +3,7 @@
     uri: git@github.com:merose/maunder.git
     version: develop
 - git:
-    local-name: maunder-interfaces
+    local-name: maunder_interfaces
     uri: git@github.com:merose/maunder_interfaces.git
     version: develop
 - git:
